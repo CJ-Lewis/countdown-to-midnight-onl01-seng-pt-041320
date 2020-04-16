@@ -10,3 +10,4 @@ def countdown
   end
 end
 
+countdown(5)
